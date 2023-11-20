@@ -3,8 +3,9 @@
 }
 .img{
     background-image: url(images/netfliximg.jpg);
-    width: 1420px;
-    height: 900px;
+    width: 100%;
+    height: 700px;
+    ;
 }
 
 header{
@@ -27,5 +28,146 @@ header{
     height: 25px;
    
     display: flex;
+    margin-right: 375px;
+    margin-top: 28px;
+   
+  
 }
+.sign{
+    width: auto;   
+     margin-left: 33px;
+     padding-inline: 20px;
+    background-color: red;
+    color: wheat;
+    border: 1px solid rgba(0, 0, 0, 0.445);
+    border-radius: 4px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    font-family: sans-serif;
+    word-spacing:5px;
+    min-height: 2.25rem;
+    padding-left: o.22rem 1rem;
+    background: rgb(229,9,20);
+    color: rgb(255,255,255);
+    
+}.btn1{
+    background-color: rgba(10, 10, 10, 0.199);
+    color:rgb(255,255,255) ;
+    font-family: sans-serif;
+    padding: 0.45rem 1rem;
+    line-height: 1.25rem;
+    border:0.45 solid rgba(255, 255, 255, 0.185);
+border-radius: 3px;
+    height:29px;
+
+}
+.div2{
+    height: 5px;
+    width: 100%;
+    background-color: grey;
+    z-index: 2px;
+}
+.div3{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.indiv31{
+    height: 50px;
+    width:430 px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 3rem;
+    font-weight: 900;
+    padding: 3px;
+    align-items: center;
+    padding-left: 200px;
+    padding-top: 130px;
+  
+}
+.indiv32{
+    width: 430px;
+    height: 70px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 400;
+    padding-top: 35px;
+    padding-left:216px ;
+    position: relative;  
+}
+.indiv33{
+    
+    margin-left: 820px;
+    margin-top: -175px;
+    z-index: 8pxpx;
+    position: absolute 
+}
+
+   
+    
+
+.div4{
+    width: 100%;
+    height: 5px;
+    background-color: grey;
+}
+.div5{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    position: relative;
+}
+
+.ide{
+    width: 489px;
+    height: 366px;
+    object-fit: fill;
+    padding-left: 157px;
+    padding-top: 68px;
+    z-index: 5px;
+}
+.div6{
+    width: 100%;
+    height: 5px;
+    background-color: grey;
+}
+.div7{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.div8{
+    width: 100%;
+    height: 5px;
+    background-color: grey;
+}
+.div9{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.div10{
+    width: 100%;
+    height: 5px;
+    background-color: grey;
+}
+.div11{
+    width: 100%;
+    height: 850px;
+    background-color: black;
+}
+.div12{
+    width: 100%;
+    height: 5px;
+    background-color: grey;
+}
+.div13{
+
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+
+
 

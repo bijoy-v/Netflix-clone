@@ -87,6 +87,7 @@ header{
     border:0.45 solid rgba(124, 122, 122, 0.185);
 border-radius: 3px;
     height:29px;
+   
 
 }
 .div2{
@@ -257,10 +258,96 @@ padding-left: 175px;
     height: auto;
     padding-left:0px;
     padding-top: 20px;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     font-weight: 500;
 
 }
+.bar{
+    width: 390px;
+    height: 51px;
+    background-color: rgba(31, 30, 30, 0.575);
+    margin-left: 340px;
+    color: #fff;
+    margin-top: 30px;
+    padding-left: 10px;
+    font-size: 1.2rem;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.377);
+    border-radius: 4px;
+   }
+   .barbtn{
+    width: 188px;
+    height: 58px;
+    background-color: #e72d2d;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    color: #fff;
+    border: 1px solid black;
+    border-radius: 4px;
+   }
+   .ul{
+    width: 900px;
+    height: 40px;
+    background-color: black;
+    padding-left: 50px;
+    margin-left: 90px;
+    padding-top:80px;
+
+   }
+   .sq{
+    width:150px;
+    height: 70px;
+    background-color: black;
+    float: right;
+    margin-right: 287px;
+    margin-top: 50px;
+    list-style-type: disc;
+    text-decoration: underline;
+    color:  #ffffff9c;
+   }
+   .bq{
+    width: 180px;
+    height: 70px;
+    background-color: black;
+    float: right;
+    text-decoration: underline;
+    margin-right: 80px;
+    margin-top: 50px;
+    color:  #ffffff9c;
+    
+   }
+   .tq{
+    width: 180px;
+    height: 70px;
+    background-color: black;
+    float: right;
+    text-decoration: underline;
+    margin-right: 50px;
+    margin-top: 50px;
+    color:  #ffffff9c;
+   }
+   .aq{
+    width: 180px;
+    height: 70px;
+    background-color: black;
+    float: right;
+    text-decoration: underline;
+    margin-right: 50px;
+    margin-top: 50px;
+    color:  #ffffff9c;
+
+   }
+   .ebtn{
+    margin-left:200px;
+    margin-top: 200px;
+    padding-bottom: 5px;
+   }
+   .net{
+    font-size: small;
+    margin-top: 20px;
+    margin-left: 220px;
+    color: #ffffff9c;
+   }
 
    
 

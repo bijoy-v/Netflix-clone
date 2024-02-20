@@ -67,7 +67,7 @@ header{
      margin-left: 33px;
      padding-inline: 20px;
     background-color: red;
-    color: wheat;
+    color: rgba(245, 222, 179, 0.747);
     border: 1px solid rgba(0, 0, 0, 0.445);
     border-radius: 4px;
     font-size: 0.875rem;
@@ -81,7 +81,7 @@ header{
     
 }.btn1{
     background-color: rgba(10, 10, 10, 0.199);
-    color:rgb(255,255,255) ;
+    color:rgba(255, 255, 255, 0.658) ;
     padding: 0.45rem 1rem;
     line-height: 1.25rem;
     border:0.45 solid rgba(124, 122, 122, 0.185);
@@ -301,7 +301,7 @@ padding-left: 175px;
     float: right;
     margin-right: 287px;
     margin-top: 50px;
-    list-style-type: disc;
+    list-style-type: none;
     text-decoration: underline;
     color:  #ffffff9c;
    }
